@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Covid-19 Tracker</string>
+    <string name="lgmheadtext">LGM</string>
+    <string name="tracker">Tracker</string>
+    <string name="covid19">Covid19</string>
+    <string name="uzair">Uzair</string>
+    <string name="from">From</string>
+    <string name="covid_19">Covid-19</string>
+</resources>

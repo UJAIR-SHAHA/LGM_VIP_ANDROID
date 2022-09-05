@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Repositories/GitHub/LGMVIP-Android/LGMVIP_CovidTracker/app/src/main/res/layout/activity_main.xml" value="0.20520833333333333" />
+        <entry key="..\:/Repositories/GitHub/LGMVIP-Android/LGMVIP_CovidTracker/app/src/main/res/layout/rvview.xml" value="0.5" />
+        <entry key="..\:/Repositories/GitHub/LGMVIP-Android/LGMVIP_CovidTracker/app/src/main/res/layout/testing.xml" value="0.20520833333333333" />
+        <entry key="..\:/Repositories/GitHub/LGMVIP-Android/LGMVIP_CovidTracker/app/src/main/res/layout/vpview.xml" value="0.32139201637666326" />
+        <entry key="..\:/Repositories/GitHub/LGMVIP_CovidTracker/app/src/main/res/layout/activity_main.xml" value="0.2015625" />
+        <entry key="..\:/Users/D0X/AndroidStudioProjects/LGMVIP_CovidTracker/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/D0X/AndroidStudioProjects/LGMVIP_CovidTracker/app/src/main/res/layout/testing.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/ujair shaha/Downloads/LGMVIP-Android-main/LGMVIP-Android-main/LGMVIP_CovidTracker/app/src/main/res/drawable/ic_launcher_background.xml" value="0.196" />
+        <entry key="..\:/Users/ujair shaha/Downloads/LGMVIP-Android-main/LGMVIP-Android-main/LGMVIP_CovidTracker/app/src/main/res/layout/activity_main.xml" value="0.24375" />
+        <entry key="..\:/Users/ujair shaha/Downloads/LGMVIP-Android-main/LGMVIP-Android-main/LGMVIP_CovidTracker/app/src/main/res/layout/activity_splashscreen.xml" value="0.24375" />
+        <entry key="..\:/Users/ujair shaha/Downloads/LGMVIP-Android-main/LGMVIP-Android-main/LGMVIP_CovidTracker/app/src/main/res/layout/rvview.xml" value="0.24375" />
+        <entry key="..\:/Users/ujair shaha/Downloads/LGMVIP-Android-main/LGMVIP-Android-main/LGMVIP_CovidTracker/app/src/main/res/layout/vpview.xml" value="0.24375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
