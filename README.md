@@ -7,4 +7,8 @@ The app fetches data of the overall covid scenario in different cities and state
 # Preview of App
 
 
-<img src="[https://your-image-url.type](https://user-images.githubusercontent.com/107527307/188435575-d01c56e0-76f0-4702-8655-6524fde88f7b.png)" width="250" height="500">
+
+<p float = "left">
+<img src="https://user-images.githubusercontent.com/107527307/188440895-3d59494c-0b05-4d1d-86ba-4ca41b3bbaf9.png" width="150" height="280">
+<img src="https://user-images.githubusercontent.com/107527307/188441449-23202311-bb4b-4a44-992e-ec6c4794b539.png" width="150" height="280">
+  </p>
