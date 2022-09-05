@@ -3,6 +3,7 @@
 The app fetches data of the overall covid scenario in different cities and states of India using Volley API. I have used RecyclerView and ListView to show the data.
 
 ## IDE Used - ANDROID STUDIO
+## Download Apk From Here 👉 https://github.com/UJAIR-SHAHA/LGM_VIP_ANDROID_COVID-19_TRACKER/releases/download/v.1.0/Covid-19.Tracker.apk
 
 # Preview of App
 
